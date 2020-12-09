@@ -14,7 +14,7 @@ POINTS = 0
 SCREEN = pygame.display.set_mode([SCREEN_WIDTH, SCREEN_HEIGHT])  # pass a list
 
 # Title and Icon
-pygame.display.set_caption("space invaders by PIYU")
+pygame.display.set_caption("space invaders by Taru")
 icon = pygame.image.load('src/images/icon.png')
 pygame.display.set_icon(icon)
 
